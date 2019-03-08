@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>com.lg.JavaCourse</OriginalElement>
+  <nodes>
+    <node x="162.671875" y="312.0">com.lg.simpleFactoryPattern.SimpleFactoryPatternTest</node>
+    <node x="154.0" y="104.0">com.lg.PythonCourse</node>
+    <node x="0.0" y="104.0">com.lg.JavaCourse</node>
+    <node x="198.71354166666669" y="0.0">com.lg.ICourse</node>
+    <node x="117.88020833333334" y="208.0">com.lg.simpleFactoryPattern.SimpleFactory</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.lg.simpleFactoryPattern.SimpleFactory" target="com.lg.JavaCourse">
+      <point x="-64.33333333333331" y="-27.0" />
+      <point x="150.04687500000003" y="183.0" />
+      <point x="67.0" y="183.0" />
+      <point x="0.0" y="27.0" />
+    </edge>
+    <edge source="com.lg.simpleFactoryPattern.SimpleFactory" target="com.lg.PythonCourse">
+      <point x="0.0" y="-27.0" />
+      <point x="214.38020833333334" y="183.0" />
+      <point x="221.0" y="183.0" />
+      <point x="0.0" y="27.0" />
+    </edge>
+    <edge source="com.lg.simpleFactoryPattern.SimpleFactoryPatternTest" target="com.lg.ICourse">
+      <point x="64.66666666666669" y="-27.0" />
+      <point x="324.3385416666667" y="287.0" />
+      <point x="331.296875" y="287.0" />
+      <point x="331.296875" y="79.0" />
+      <point x="315.9635416666667" y="79.0" />
+      <point x="50.25" y="27.0" />
+    </edge>
+    <edge source="com.lg.PythonCourse" target="com.lg.ICourse">
+      <point x="0.0" y="-27.0" />
+      <point x="221.0" y="79.0" />
+      <point x="248.96354166666669" y="79.0" />
+      <point x="-16.75" y="27.0" />
+    </edge>
+    <edge source="com.lg.simpleFactoryPattern.SimpleFactory" target="com.lg.ICourse">
+      <point x="64.33333333333331" y="-27.0" />
+      <point x="278.71354166666663" y="183.0" />
+      <point x="307.75" y="183.0" />
+      <point x="307.75" y="79.0" />
+      <point x="282.4635416666667" y="79.0" />
+      <point x="16.75" y="27.0" />
+    </edge>
+    <edge source="com.lg.simpleFactoryPattern.SimpleFactoryPatternTest" target="com.lg.simpleFactoryPattern.SimpleFactory">
+      <point x="0.0" y="-27.0" />
+      <point x="259.671875" y="287.0" />
+      <point x="262.63020833333337" y="287.0" />
+      <point x="48.25" y="27.0" />
+    </edge>
+    <edge source="com.lg.JavaCourse" target="com.lg.ICourse">
+      <point x="0.0" y="-27.0" />
+      <point x="67.0" y="79.0" />
+      <point x="215.46354166666669" y="79.0" />
+      <point x="-50.25" y="27.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="57.0" y="56.0" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
