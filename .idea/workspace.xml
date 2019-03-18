@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="deb1bb5e-3d2f-48dd-92d9-22b207139576" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/UML/FactoryPatternUML.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lg/INote.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lg/IVideo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lg/JavaNote.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lg/JavaVideo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lg/PythonNote.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lg/PythonVideo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lg/abstractFactoryPattern/AbstractFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lg/abstractFactoryPattern/AbstractFactoryTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lg/abstractFactoryPattern/JavaFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lg/abstractFactoryPattern/PythonFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UML/simpleFactoryPattern.uml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lg/PythonCourse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lg/PythonCourse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试.txt" beforeDir="false" />
-    </list>
+    <list default="true" id="deb1bb5e-3d2f-48dd-92d9-22b207139576" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -275,7 +260,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552116285136" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552116714400" />
     <property name="full.screen.before.presentation.mode" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -415,12 +400,12 @@
       <updated>1552011525453</updated>
       <workItem from="1552011529738" duration="6297000" />
       <workItem from="1552056365027" duration="872000" />
-      <workItem from="1552114690039" duration="2018000" />
+      <workItem from="1552114690039" duration="2614000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9187000" />
+    <option name="totallyTimeSpent" value="9783000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
